@@ -1,5 +1,4 @@
 package pack1;
-import cucumber.api.*;
 import org.junit.runner.RunWith;
 import cucumber.api.CucumberOptions;
 	@RunWith(Cucumber.class)
